@@ -1,0 +1,107 @@
+﻿gene,category
+Lcn2,neuroinflammation
+Steap4,neuroinflammation
+S1pr3,neuroinflammation
+Timp1,neuroinflammation
+Hsbp1,neuroinflammation
+Cxcl10,neuroinflammation
+Cd44,neuroinflammation
+Osmr,neuroinflammation
+Cp,neuroinflammation
+Serpina3n,neuroinflammation
+Aspg,neuroinflammation
+Vim,neuroinflammation
+Gfap,neuroinflammation
+H2.T23,neuroinflammation
+Serping1,neuroinflammation
+H2.D1,neuroinflammation
+Ggta1,neuroinflammation
+Iigp1,neuroinflammation
+Gbp2,neuroinflammation
+Fbln5,neuroinflammation
+Ugt1a,neuroinflammation
+Fkbp5,neuroinflammation
+Psmb8,neuroinflammation
+Srgn,neuroinflammation
+Amigo2,neuroinflammation
+Clcf1,neuroinflammation
+Tgm1,neuroinflammation
+Ptx3,neuroinflammation
+S100a10,neuroinflammation
+Sphk1,neuroinflammation
+Cd109,neuroinflammation
+Ptgs2,neuroinflammation
+Emp1,neuroinflammation
+Slc10a6,neuroinflammation
+Tm4sf1,neuroinflammation
+B3gnt5,neuroinflammation
+Cd14,neuroinflammation
+Ifitm3,neuroinflammation
+B2m,neuroinflammation
+Bst2,neuroinflammation
+Igtp,neuroinflammation
+Gm4951,neuroinflammation
+Ifit3,neuroinflammation
+Irgm1,neuroinflammation
+Tap1,neuroinflammation
+Ifit1,neuroinflammation
+Isg15,neuroinflammation
+Serpina3n,AD models
+Aqp4,AD models
+Igfbp5,AD models
+A2m,AD models
+Gsn,AD models
+Gfap,AD models
+Cd44,AD models
+Ctsb,AD models
+Slc16a1,AD models
+Ddr1,AD models
+Serpinf1,AD models
+C4b,AD models
+Ctsd,AD models
+Plat,AD models
+Serping1,AD models
+Timp2,AD models
+Tagln3,AD models
+Vim,AD models
+Ccdc3,AD models
+Mlc1,AD models
+Rpl36-ps3,AD models
+Clu,AD models
+Id3,AD models
+Cd9,AD models
+Fxyd1,AD models
+Apoe,AD models
+Kcnip4,AD models
+Plce1,AD models
+Cst3,AD models
+Ggta1,AD models
+S100a6,AD models
+Cnn3,AD models
+Mt2,AD models
+Apod,ischemia
+Ttr,ischemia
+Ier2,ischemia
+Igfbp5,ischemia
+Btg2,ischemia
+Cpe,ischemia
+Spp1,ischemia
+Txnip,ischemia
+Dnajb1,ischemia
+Cyr61,ischemia
+Klf2,ischemia
+Egr1,ischemia
+Gstm1,ischemia
+Mt1,ischemia
+Mt2,ischemia
+Nfkbia,ischemia
+Zfp36,ischemia
+Sox9,ischemia
+Junb,ischemia
+Cst3,ischemia
+Stat1,injury
+Bst2,injury
+Iigp1,injury
+Ifitm3,injury
+H2-T23,injury
+H2-D1,injury
